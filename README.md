@@ -1,4 +1,4 @@
 # Workshop
-Projet étudiant en groupe
-Ce projet est lié à un workshop de 2 semaines où il nous était demandé de réaliser un jeu sur le thème de Flappy Bird, un peu comme lors d'une game jam.
-J'ai été le seul programmeur sur ce projet. Les assets (modèles, animations, SFX, VFX) ont été réalisés par les autres membres du groupe, tandis que je me suis occupé exclusivement de la programmation.
+Group Student Project
+This project was part of a 2-week workshop where we were tasked with creating a game based on the theme of Flappy Bird, similar to a game jam.
+I was the sole programmer on this project. The assets (models, animations, SFX, VFX) were created by the other group members, while I focused exclusively on the programming.
